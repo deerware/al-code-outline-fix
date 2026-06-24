@@ -1,3 +1,7 @@
+## Update 2026/06/22
+
+This fix unfortunately seems to have stopped working, at least on the Al language prerelease version. Sorry.
+
 # Dirty al-code-outline (AZ AL Dev Tools) fix
 
 This is a .vsix file I created by carelessly replacing the necessary files directly in the .vsix, it is not a new compilation or a good release. It only exists because noone else did it better so far.
